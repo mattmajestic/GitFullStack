@@ -1,4 +1,4 @@
-const gistId = 'YOUR_G6f6d1d4a865a518af6f0f7b9586a95f1IST_ID';
+const gistId = '6f6d1d4a865a518af6f0f7b9586a95f1';
 const filename = 'data.json';
 
 /// Function to fetch and display tasks from the Gist
